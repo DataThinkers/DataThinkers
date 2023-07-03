@@ -28,8 +28,8 @@
 <p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=priyang-bhatt&show_icons=true&locale=en&layout=compact" alt="priyang-bhatt" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=priyang-bhatt&show_icons=true&locale=en" alt="priyang-bhatt" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DataThinkers&show_icons=true&locale=en" alt="DataThinkers" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyang-bhatt&" alt="priyang-bhatt" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DataThinkers&" alt="DataThinkers" /></p>
 
 
