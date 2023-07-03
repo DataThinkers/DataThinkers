@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on End-to-End Machine Learning Projects & Data Analytics Using Python
 
-- 💬 Ask me about **Machine Learning using Python,Android**
+- 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **priyang.datathinkers@gmail.com**
 
