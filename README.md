@@ -84,62 +84,14 @@ I regularly write articles on:
 
 <div align="center">
 
-<table>
-<tr>
-
-<td align="center">
-  <a href="https://github.com/DataThinkers/Datasets" target="_blank">
-    <img src="https://img.shields.io/badge/📦%20Datasets-Jupyter%20Notebook-orange?style=for-the-badge&logo=github&logoColor=white" />
-  </a><br/>
-  <img src="https://img.shields.io/github/stars/DataThinkers/Datasets?style=flat-square&logo=star&label=⭐%20Stars&color=orange" />
-  <img src="https://img.shields.io/github/forks/DataThinkers/Datasets?style=flat-square&logo=git&label=🍴%20Forks&color=orange" />
-</td>
-
-<td align="center">
-  <a href="https://github.com/DataThinkers/Machine-Learning-Projects-Code" target="_blank">
-    <img src="https://img.shields.io/badge/🤖%20ML%20Projects-Jupyter%20Notebook-blue?style=for-the-badge&logo=github&logoColor=white" />
-  </a><br/>
-  <img src="https://img.shields.io/github/stars/DataThinkers/Machine-Learning-Projects-Code?style=flat-square&label=⭐%20Stars&color=blue" />
-  <img src="https://img.shields.io/github/forks/DataThinkers/Machine-Learning-Projects-Code?style=flat-square&label=🍴%20Forks&color=blue" />
-</td>
-
-<td align="center">
-  <a href="https://github.com/DataThinkers/Data-Analytics-Projects-Code" target="_blank">
-    <img src="https://img.shields.io/badge/📊%20Data%20Analytics-Jupyter%20Notebook-green?style=for-the-badge&logo=github&logoColor=white" />
-  </a><br/>
-  <img src="https://img.shields.io/github/stars/DataThinkers/Data-Analytics-Projects-Code?style=flat-square&label=⭐%20Stars&color=green" />
-  <img src="https://img.shields.io/github/forks/DataThinkers/Data-Analytics-Projects-Code?style=flat-square&label=🍴%20Forks&color=green" />
-</td>
-
-</tr>
-<tr>
-
-<td align="center">
-  <a href="https://github.com/DataThinkers/ML-WEB-APP" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20ML%20Web%20App-Python-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
-  </a><br/>
-  <img src="https://img.shields.io/github/stars/DataThinkers/ML-WEB-APP?style=flat-square&label=⭐%20Stars&color=blueviolet" />
-  <img src="https://img.shields.io/github/forks/DataThinkers/ML-WEB-APP?style=flat-square&label=🍴%20Forks&color=blueviolet" />
-</td>
-
-<td align="center">
-  <a href="https://github.com/DataThinkers/Numpy" target="_blank">
-    <img src="https://img.shields.io/badge/🔢%20NumPy%20Tutorials-Jupyter%20Notebook-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  </a><br/>
-  <img src="https://img.shields.io/github/stars/DataThinkers/Numpy?style=flat-square&label=⭐%20Stars&color=013243" />
-  <img src="https://img.shields.io/github/forks/DataThinkers/Numpy?style=flat-square&label=🍴%20Forks&color=013243" />
-</td>
-
-<td align="center">
-  <a href="https://github.com/DataThinkers/youtube_juputer_notebook_code_files" target="_blank">
-    <img src="https://img.shields.io/badge/🎬%20YouTube%20Notebooks-Jupyter%20Notebook-red?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a><br/>
-  <img src="https://img.shields.io/github/stars/DataThinkers/youtube_juputer_notebook_code_files?style=flat-square&label=⭐%20Stars&color=red" />
-  <img src="https://img.shields.io/github/forks/DataThinkers/youtube_juputer_notebook_code_files?style=flat-square&label=🍴%20Forks&color=red" />
-</td>
-
-</tr>
-</table>
+| Repository | Stars | Forks |
+|---|---|---|
+| [📦 Datasets](https://github.com/DataThinkers/Datasets) | ![](https://img.shields.io/github/stars/DataThinkers/Datasets?style=flat-square) | ![](https://img.shields.io/github/forks/DataThinkers/Datasets?style=flat-square) |
+| [🤖 Machine Learning Projects](https://github.com/DataThinkers/Machine-Learning-Projects-Code) | ![](https://img.shields.io/github/stars/DataThinkers/Machine-Learning-Projects-Code?style=flat-square) | ![](https://img.shields.io/github/forks/DataThinkers/Machine-Learning-Projects-Code?style=flat-square) |
+| [📊 Data Analytics Projects](https://github.com/DataThinkers/Data-Analytics-Projects-Code) | ![](https://img.shields.io/github/stars/DataThinkers/Data-Analytics-Projects-Code?style=flat-square) | ![](https://img.shields.io/github/forks/DataThinkers/Data-Analytics-Projects-Code?style=flat-square) |
+| [🌐 ML Web App](https://github.com/DataThinkers/ML-WEB-APP) | ![](https://img.shields.io/github/stars/DataThinkers/ML-WEB-APP?style=flat-square) | ![](https://img.shields.io/github/forks/DataThinkers/ML-WEB-APP?style=flat-square) |
+| [🔢 NumPy Tutorials](https://github.com/DataThinkers/Numpy) | ![](https://img.shields.io/github/stars/DataThinkers/Numpy?style=flat-square) | ![](https://img.shields.io/github/forks/DataThinkers/Numpy?style=flat-square) |
+| [🎬 YouTube Notebooks](https://github.com/DataThinkers/youtube_juputer_notebook_code_files) | ![](https://img.shields.io/github/stars/DataThinkers/youtube_juputer_notebook_code_files?style=flat-square) | ![](https://img.shields.io/github/forks/DataThinkers/youtube_juputer_notebook_code_files?style=flat-square) |
 
 </div>
 
