@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Priyang%20Bhatt&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Educator%20By%20Day%20%E2%80%A2%20Data%20Scientist%20By%20Night&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
+<a href="https://git.io/typing-svg" target="_blank">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Data+Science+Educator;Python+%7C+Scikit-learn+%7C+Pandas;Building+End-to-End+ML+Projects" alt="Typing SVG" />
 </a>
 
@@ -14,11 +14,11 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=priyang-bhatt&label=Profile%20Views&color=7c3aed&style=flat-square" alt="Profile Views" />
   &nbsp;
-  <a href="https://www.youtube.com/@DataThinkers">
+  <a href="https://www.youtube.com/@DataThinkers" target="_blank">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCmbUF1jKRoZ-NdOLJX3wBgw?label=YouTube%20Subscribers&style=flat-square&logo=youtube&color=dc2626" alt="YouTube Subscribers" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/priyangbhatt">
+  <a href="https://linkedin.com/in/priyangbhatt" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
@@ -39,7 +39,7 @@
 
 🔭 &nbsp;Currently building **End-to-End ML Projects** on YouTube
 
-🌱 &nbsp;Currently learning **Advanced ML and Deep Learning**
+🎬 &nbsp;Creating video tutorials on **Data Analytics, ML, DL, Generative AI and Agentic AI**
 
 ✍️ &nbsp;Writing about **Data Analytics with Python**
 
@@ -62,7 +62,7 @@
 ### 📺 YouTube — DataThinkers
 Sharing **end-to-end Machine Learning** and **Data Analytics** projects with the community. Real-world problems, clean Python code, full walkthroughs.
 
-👉 **[Watch on YouTube →](https://www.youtube.com/@DataThinkers)**
+👉 **<a href="https://www.youtube.com/@DataThinkers" target="_blank">Watch on YouTube →</a>**
 
 </td>
 <td width="50%">
@@ -139,19 +139,19 @@ I regularly write articles on:
 
 <div align="center">
 
-<a href="https://www.youtube.com/@DataThinkers">
+<a href="https://www.youtube.com/@DataThinkers" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-DataThinkers-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/priyangbhatt">
+<a href="https://linkedin.com/in/priyangbhatt" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Priyang%20Bhatt-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:priyang.datathinkers@gmail.com">
+<a href="mailto:priyang.datathinkers@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-priyang.datathinkers%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://www.hackerrank.com/priyangbhattce">
+<a href="https://www.hackerrank.com/priyangbhattce" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-priyangbhattce-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 
