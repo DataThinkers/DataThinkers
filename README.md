@@ -85,22 +85,29 @@ I regularly write articles on:
 <div align="center">
 
 <a href="https://github.com/DataThinkers/Datasets" target="_blank">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DataThinkers&repo=Datasets&theme=tokyonight&border_radius=12" />
+  <img src="https://img.shields.io/badge/📦%20Datasets-Jupyter%20Notebook-orange?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://github.com/DataThinkers/Machine-Learning-Projects-Code" target="_blank">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DataThinkers&repo=Machine-Learning-Projects-Code&theme=tokyonight&border_radius=12" />
+  <img src="https://img.shields.io/badge/🤖%20ML%20Projects-Jupyter%20Notebook-blue?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://github.com/DataThinkers/Data-Analytics-Projects-Code" target="_blank">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DataThinkers&repo=Data-Analytics-Projects-Code&theme=tokyonight&border_radius=12" />
+  <img src="https://img.shields.io/badge/📊%20Data%20Analytics-Jupyter%20Notebook-green?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<br/><br/>
+
 <a href="https://github.com/DataThinkers/ML-WEB-APP" target="_blank">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DataThinkers&repo=ML-WEB-APP&theme=tokyonight&border_radius=12" />
+  <img src="https://img.shields.io/badge/🌐%20ML%20Web%20App-Python-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://github.com/DataThinkers/Numpy" target="_blank">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DataThinkers&repo=Numpy&theme=tokyonight&border_radius=12" />
+  <img src="https://img.shields.io/badge/🔢%20NumPy%20Tutorials-Jupyter%20Notebook-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://github.com/DataThinkers/youtube_juputer_notebook_code_files" target="_blank">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DataThinkers&repo=youtube_juputer_notebook_code_files&theme=tokyonight&border_radius=12" />
+  <img src="https://img.shields.io/badge/🎬%20YouTube%20Notebooks-Jupyter%20Notebook-red?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
 </div>
