@@ -29,19 +29,27 @@
 
 ## 👨‍💻 About Me
 
-🙋‍♂️ Hi! I'm **Priyang Bhatt** — an Educator by day and Data Scientist by night, based in **India 🇮🇳**
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-💡 My mission: *Demystifying Data Science, one project at a time.*
+🙋‍♂️ Hi! I'm **Priyang Bhatt** — an **Educator by day** and **Data Scientist by night**, based in India 🇮🇳
+
+💡 *Demystifying Data Science, one project at a time.*
 
 <br/>
 
-| 🔭 | Currently Building | End-to-End ML Projects on YouTube |
-|---|---|---|
-| 🌱 | Currently Learning | Advanced ML and Deep Learning |
-| ✍️ | Writing About | Data Analytics Tutorials with Python |
-| 💬 | Ask Me About | Machine Learning 🤖 |
-| 📫 | Reach Me At | priyang.datathinkers@gmail.com |
-| 📍 | Location | India 🇮🇳 |
+🔭 &nbsp;Currently building **End-to-End ML Projects** on YouTube
+
+🌱 &nbsp;Currently learning **Advanced ML and Deep Learning**
+
+✍️ &nbsp;Writing about **Data Analytics with Python**
+
+💬 &nbsp;Ask me about **Machine Learning 🤖**
+
+📫 &nbsp;Reach me at **priyang.datathinkers@gmail.com**
+
+🏆 &nbsp;Passionate about turning raw data into real insights
+
+<br/><br/>
 
 ---
 
