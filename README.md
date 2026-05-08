@@ -86,8 +86,7 @@ I regularly write articles on:
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
 ### Data Science & ML
@@ -126,7 +125,11 @@ I regularly write articles on:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DataThinkers&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="DataThinkers GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=DataThinkers&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="DataThinkers GitHub Trophies" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=DataThinkers&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4&rank=B,C" alt="DataThinkers GitHub Trophies Row 2" />
 
 </div>
 
