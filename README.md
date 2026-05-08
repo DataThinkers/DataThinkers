@@ -29,24 +29,19 @@
 
 ## 👨‍💻 About Me
 
-```python
-class PriyangBhatt:
-    name        = "Priyang Bhatt"
-    role        = ["Educator", "Data Scientist", "ML Engineer"]
-    location    = "India 🇮🇳"
-    languages   = ["Python", "C", "HTML"]
-    
-    def mission(self):
-        return "Demystifying Data Science — one project at a time."
-    
-    def currently(self):
-        return {
-            "learning"  : "Advanced ML & Deep Learning",
-            "building"  : "End-to-End ML Projects on YouTube",
-            "writing"   : "Data Analytics Tutorials with Python",
-            "ask_me"    : "Machine Learning 🤖"
-        }
-```
+🙋‍♂️ Hi! I'm **Priyang Bhatt** — an Educator by day and Data Scientist by night, based in **India 🇮🇳**
+
+💡 My mission: *Demystifying Data Science, one project at a time.*
+
+<br/>
+
+| 🔭 | Currently Building | End-to-End ML Projects on YouTube |
+|---|---|---|
+| 🌱 | Currently Learning | Advanced ML and Deep Learning |
+| ✍️ | Writing About | Data Analytics Tutorials with Python |
+| 💬 | Ask Me About | Machine Learning 🤖 |
+| 📫 | Reach Me At | priyang.datathinkers@gmail.com |
+| 📍 | Location | India 🇮🇳 |
 
 ---
 
