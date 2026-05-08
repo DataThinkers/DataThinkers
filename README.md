@@ -80,6 +80,33 @@ I regularly write articles on:
 
 ---
 
+## 📂 Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/DataThinkers/Datasets" target="_blank">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DataThinkers&repo=Datasets&theme=tokyonight&border_radius=12" />
+</a>
+<a href="https://github.com/DataThinkers/Machine-Learning-Projects-Code" target="_blank">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DataThinkers&repo=Machine-Learning-Projects-Code&theme=tokyonight&border_radius=12" />
+</a>
+<a href="https://github.com/DataThinkers/Data-Analytics-Projects-Code" target="_blank">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DataThinkers&repo=Data-Analytics-Projects-Code&theme=tokyonight&border_radius=12" />
+</a>
+<a href="https://github.com/DataThinkers/ML-WEB-APP" target="_blank">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DataThinkers&repo=ML-WEB-APP&theme=tokyonight&border_radius=12" />
+</a>
+<a href="https://github.com/DataThinkers/Numpy" target="_blank">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DataThinkers&repo=Numpy&theme=tokyonight&border_radius=12" />
+</a>
+<a href="https://github.com/DataThinkers/youtube_juputer_notebook_code_files" target="_blank">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DataThinkers&repo=youtube_juputer_notebook_code_files&theme=tokyonight&border_radius=12" />
+</a>
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages & Core Tools
