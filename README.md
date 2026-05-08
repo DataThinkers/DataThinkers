@@ -126,7 +126,7 @@ I regularly write articles on:
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=DataThinkers&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6)
+<img src="https://github-profile-trophy.vercel.app/?username=DataThinkers&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="DataThinkers GitHub Trophies" />
 
 </div>
 
