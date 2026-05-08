@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=priyang-bhatt&label=Profile%20Views&color=7c3aed&style=flat-square" alt="Profile Views" />
   &nbsp;
   <a href="https://www.youtube.com/@DataThinkers">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCbmNph6atAoGfqLoCL_duAg?label=YouTube%20Subscribers&style=flat-square&logo=youtube&color=dc2626" alt="YouTube Subscribers" />
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCmbUF1jKRoZ-NdOLJX3wBgw?label=YouTube%20Subscribers&style=flat-square&logo=youtube&color=dc2626" alt="YouTube Subscribers" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/priyangbhatt">
