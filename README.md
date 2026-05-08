@@ -84,39 +84,19 @@ I regularly write articles on:
 
 <div align="center">
 
-<a href="https://github.com/DataThinkers/Datasets" target="_blank"><img src="https://img.shields.io/badge/📦_Datasets-FF6B35?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img src="https://img.shields.io/github/stars/DataThinkers/Datasets?style=for-the-badge&color=FF6B35&logo=star&logoColor=white" />
-<img src="https://img.shields.io/github/forks/DataThinkers/Datasets?style=for-the-badge&color=FF8C5A&logo=git-fork&logoColor=white" />
+<a href="https://github.com/DataThinkers/Datasets" target="_blank"><img src="https://img.shields.io/badge/📦_Datasets-FF6B35?style=for-the-badge&logo=github&logoColor=white" /></a><img src="https://img.shields.io/github/stars/DataThinkers/Datasets?style=for-the-badge&color=FF6B35&logo=star&logoColor=white" /><img src="https://img.shields.io/github/forks/DataThinkers/Datasets?style=for-the-badge&color=FF8C5A&logo=git-fork&logoColor=white" />
+&nbsp;
+<a href="https://github.com/DataThinkers/Machine-Learning-Projects-Code" target="_blank"><img src="https://img.shields.io/badge/🤖_ML_Projects-2196F3?style=for-the-badge&logo=github&logoColor=white" /></a><img src="https://img.shields.io/github/stars/DataThinkers/Machine-Learning-Projects-Code?style=for-the-badge&color=2196F3&logo=star&logoColor=white" /><img src="https://img.shields.io/github/forks/DataThinkers/Machine-Learning-Projects-Code?style=for-the-badge&color=42A5F5&logo=git-fork&logoColor=white" />
+&nbsp;
+<a href="https://github.com/DataThinkers/Data-Analytics-Projects-Code" target="_blank"><img src="https://img.shields.io/badge/📊_Data_Analytics-00BFA5?style=for-the-badge&logo=github&logoColor=white" /></a><img src="https://img.shields.io/github/stars/DataThinkers/Data-Analytics-Projects-Code?style=for-the-badge&color=00BFA5&logo=star&logoColor=white" /><img src="https://img.shields.io/github/forks/DataThinkers/Data-Analytics-Projects-Code?style=for-the-badge&color=26C6B0&logo=git-fork&logoColor=white" />
 
-<br/><br/>
+<br/>
 
-<a href="https://github.com/DataThinkers/Machine-Learning-Projects-Code" target="_blank"><img src="https://img.shields.io/badge/🤖_ML_Projects-2196F3?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img src="https://img.shields.io/github/stars/DataThinkers/Machine-Learning-Projects-Code?style=for-the-badge&color=2196F3&logo=star&logoColor=white" />
-<img src="https://img.shields.io/github/forks/DataThinkers/Machine-Learning-Projects-Code?style=for-the-badge&color=42A5F5&logo=git-fork&logoColor=white" />
-
-<br/><br/>
-
-<a href="https://github.com/DataThinkers/Data-Analytics-Projects-Code" target="_blank"><img src="https://img.shields.io/badge/📊_Data_Analytics-00BFA5?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img src="https://img.shields.io/github/stars/DataThinkers/Data-Analytics-Projects-Code?style=for-the-badge&color=00BFA5&logo=star&logoColor=white" />
-<img src="https://img.shields.io/github/forks/DataThinkers/Data-Analytics-Projects-Code?style=for-the-badge&color=26C6B0&logo=git-fork&logoColor=white" />
-
-<br/><br/>
-
-<a href="https://github.com/DataThinkers/ML-WEB-APP" target="_blank"><img src="https://img.shields.io/badge/🌐_ML_Web_App-9C27B0?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img src="https://img.shields.io/github/stars/DataThinkers/ML-WEB-APP?style=for-the-badge&color=9C27B0&logo=star&logoColor=white" />
-<img src="https://img.shields.io/github/forks/DataThinkers/ML-WEB-APP?style=for-the-badge&color=AB47BC&logo=git-fork&logoColor=white" />
-
-<br/><br/>
-
-<a href="https://github.com/DataThinkers/Numpy" target="_blank"><img src="https://img.shields.io/badge/🔢_NumPy_Tutorials-013243?style=for-the-badge&logo=numpy&logoColor=white" /></a>
-<img src="https://img.shields.io/github/stars/DataThinkers/Numpy?style=for-the-badge&color=013243&logo=star&logoColor=white" />
-<img src="https://img.shields.io/github/forks/DataThinkers/Numpy?style=for-the-badge&color=025f80&logo=git-fork&logoColor=white" />
-
-<br/><br/>
-
-<a href="https://github.com/DataThinkers/youtube_juputer_notebook_code_files" target="_blank"><img src="https://img.shields.io/badge/🎬_YouTube_Notebooks-E53935?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<img src="https://img.shields.io/github/stars/DataThinkers/youtube_juputer_notebook_code_files?style=for-the-badge&color=E53935&logo=star&logoColor=white" />
-<img src="https://img.shields.io/github/forks/DataThinkers/youtube_juputer_notebook_code_files?style=for-the-badge&color=EF5350&logo=git-fork&logoColor=white" />
+<a href="https://github.com/DataThinkers/ML-WEB-APP" target="_blank"><img src="https://img.shields.io/badge/🌐_ML_Web_App-9C27B0?style=for-the-badge&logo=github&logoColor=white" /></a><img src="https://img.shields.io/github/stars/DataThinkers/ML-WEB-APP?style=for-the-badge&color=9C27B0&logo=star&logoColor=white" /><img src="https://img.shields.io/github/forks/DataThinkers/ML-WEB-APP?style=for-the-badge&color=AB47BC&logo=git-fork&logoColor=white" />
+&nbsp;
+<a href="https://github.com/DataThinkers/Numpy" target="_blank"><img src="https://img.shields.io/badge/🔢_NumPy_Tutorials-013243?style=for-the-badge&logo=numpy&logoColor=white" /></a><img src="https://img.shields.io/github/stars/DataThinkers/Numpy?style=for-the-badge&color=013243&logo=star&logoColor=white" /><img src="https://img.shields.io/github/forks/DataThinkers/Numpy?style=for-the-badge&color=025f80&logo=git-fork&logoColor=white" />
+&nbsp;
+<a href="https://github.com/DataThinkers/youtube_juputer_notebook_code_files" target="_blank"><img src="https://img.shields.io/badge/🎬_YouTube_Notebooks-E53935?style=for-the-badge&logo=youtube&logoColor=white" /></a><img src="https://img.shields.io/github/stars/DataThinkers/youtube_juputer_notebook_code_files?style=for-the-badge&color=E53935&logo=star&logoColor=white" /><img src="https://img.shields.io/github/forks/DataThinkers/youtube_juputer_notebook_code_files?style=for-the-badge&color=EF5350&logo=git-fork&logoColor=white" />
 
 </div>
 
