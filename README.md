@@ -1,39 +1,162 @@
-<h1 align="center">Hi 👋, I'm Priyang Bhatt</h1>
-<h3 align="center">Educator By Day. Data Scientist By Night</h3>
+<div align="center">
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Priyang%20Bhatt&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Educator%20By%20Day%20%E2%80%A2%20Data%20Scientist%20By%20Night&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyang-bhatt&label=Profile%20views&color=0e75b6&style=flat" alt="priyang-bhatt" /> </p>
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Data+Science+Educator;Python+%7C+Scikit-learn+%7C+Pandas;Building+End-to-End+ML+Projects" alt="Typing SVG" />
+</a>
 
-<p align="left">
-  <a href="https://www.youtube.com/@DataThinkers" target="blank">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge" alt="YouTube" />
+<br/>
+
+<!-- Profile Views & Social Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=priyang-bhatt&label=Profile%20Views&color=7c3aed&style=flat-square" alt="Profile Views" />
+  &nbsp;
+  <a href="https://www.youtube.com/@DataThinkers">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCbmNph6atAoGfqLoCL_duAg?label=YouTube%20Subscribers&style=flat-square&logo=youtube&color=dc2626" alt="YouTube Subscribers" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/priyangbhatt">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
 
-- 👨‍💻 All of my projects are available at [https://www.youtube.com/@DataThinkers](https://www.youtube.com/c/priyangbhatt)
+</div>
 
-- 📝 I regularly write articles on End-to-End Machine Learning Projects & Data Analytics Using Python
+---
 
-- 💬 Ask me about **Machine Learning**
+## 👨‍💻 About Me
 
-- 📫 How to reach me **priyang.datathinkers@gmail.com**
+```python
+class PriyangBhatt:
+    name        = "Priyang Bhatt"
+    role        = ["Educator", "Data Scientist", "ML Engineer"]
+    location    = "India 🇮🇳"
+    languages   = ["Python", "C", "HTML"]
+    
+    def mission(self):
+        return "Demystifying Data Science — one project at a time."
+    
+    def currently(self):
+        return {
+            "learning"  : "Advanced ML & Deep Learning",
+            "building"  : "End-to-End ML Projects on YouTube",
+            "writing"   : "Data Analytics Tutorials with Python",
+            "ask_me"    : "Machine Learning 🤖"
+        }
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/priyang bhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyang bhatt" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/priyang bhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="priyang bhatt" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/priyangbhattce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="priyangbhattce" height="30" width="40" /></a>
+---
+
+## 🚀 What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 📺 YouTube — DataThinkers
+Sharing **end-to-end Machine Learning** and **Data Analytics** projects with the community. Real-world problems, clean Python code, full walkthroughs.
+
+👉 **[Watch on YouTube →](https://www.youtube.com/@DataThinkers)**
+
+</td>
+<td width="50%">
+
+### ✍️ Writing & Teaching
+I regularly write articles on:
+- 🧠 End-to-End ML Projects
+- 📊 Data Analytics with Python
+- 🔍 EDA & Feature Engineering
+- 📈 Model Building & Deployment
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Core Tools
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+### Data Science & ML
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=DataThinkers &show_icons=true&locale=en&layout=compact" alt="DataThinkers" /></p>
+### Frameworks & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/IFTTT-000000?style=for-the-badge&logo=ifttt&logoColor=white" />
+</p>
 
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DataThinkers&show_icons=true&locale=en" alt="DataThinkers" /></p>
+## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DataThinkers&" alt="DataThinkers" /></p>
+<div align="center">
 
+<img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DataThinkers&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12" />
+&nbsp;
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=DataThinkers&theme=tokyonight&border_radius=12" />
+&nbsp;
+<img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=DataThinkers&layout=compact&theme=tokyonight&border_radius=12" />
 
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=DataThinkers&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.youtube.com/@DataThinkers">
+  <img src="https://img.shields.io/badge/YouTube-DataThinkers-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/priyangbhatt">
+  <img src="https://img.shields.io/badge/LinkedIn-Priyang%20Bhatt-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:priyang.datathinkers@gmail.com">
+  <img src="https://img.shields.io/badge/Email-priyang.datathinkers%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.hackerrank.com/priyangbhattce">
+  <img src="https://img.shields.io/badge/HackerRank-priyangbhattce-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+
+**⭐ Star my repositories if you find them useful!**
+
+</div>
